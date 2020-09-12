@@ -1,0 +1,7 @@
+- + - + - + + - + - + 
+
+Total Runs: 10
+Miu: 7.66667
+varience: 1.81111
+Zo : 1.73382
+ACCEPTED

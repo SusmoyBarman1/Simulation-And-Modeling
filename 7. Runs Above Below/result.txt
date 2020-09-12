@@ -1,0 +1,8 @@
+- - - + - + - - + - + - - + + - + + + - 
+
+Total Runs: 13
+Total Observations: 20
+Miu: 10.4
+varience: 2.15345
+Zo : 1.77176
+ACCEPTED
